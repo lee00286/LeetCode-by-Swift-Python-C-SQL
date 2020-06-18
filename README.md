@@ -9,7 +9,7 @@
 ### Math
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Swift](Python/Math/9_palindrome_number.swift) | Easy | 24 ms (100.00%) | 21.2 MB (40.85%) |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Swift](Swift/Math/9_palindrome_number.swift) | Easy | 24 ms (100.00%) | 21.2 MB (40.85%) |
 
 ## Leetcode by Python
 ### Array
