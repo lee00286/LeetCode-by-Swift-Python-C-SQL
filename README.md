@@ -6,6 +6,11 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Swift](Swift/Array/1_two_sum.swift) | Easy | 36 ms (69.84%) | 21.3 MB (44.99%) |
 
+### Math
+| # | Title | Solution | Difficulty | Runtime | Memory Usage |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](Python/Math/9_palindrome_number.swift) | Easy | 24 ms (100.00%) | 21.2 MB (40.85%) |
+
 ## Leetcode by Python
 ### Array
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
