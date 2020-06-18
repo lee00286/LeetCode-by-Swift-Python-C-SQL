@@ -1,12 +1,12 @@
-# Leetcode
+# LeetCode
 
 ## Table of Contents
-- [Leetcode by Swift](#leetcode-by-swift)
-- [Leetcode by Python](#leetcode-by-python)
-- [Leetcode by C](#leetcode-by-c)
+- [LeetCode by Swift](#leetcode-by-swift)
+- [LeetCode by Python](#leetcode-by-python)
+- [LeetCode by C](#leetcode-by-c)
 
 
-## Leetcode by Swift
+## LeetCode by Swift
 ### Array
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -18,7 +18,7 @@
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Swift](Swift/Math/9_palindrome_number.swift) | Easy | 24 ms (100.00%) | 21.2 MB (40.85%) |
 
 
-## Leetcode by Python
+## LeetCode by Python
 ### Array
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -36,7 +36,7 @@
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](Python/String/20_Valid_Parentheses.py) | Easy | 16 ms (90.91%) | 12.9 MB (25.60%) |
 
 
-## Leetcode by C
+## LeetCode by C
 ### Linked List
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
