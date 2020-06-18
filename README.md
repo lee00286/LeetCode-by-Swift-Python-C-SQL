@@ -1,5 +1,10 @@
 # Leetcode
 
+## Table of Contents
+- (Leetcode by Swift)[#leetcode-by-swift]
+- (Leetcode by Python)[#leetcode-by-python]
+- (Leetcode by C)[#leetcode-by-c]
+
 ## Leetcode by Swift
 ### Array
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
