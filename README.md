@@ -16,3 +16,4 @@
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](Python/Math/7_reverse_integer.py) | Easy | 12 ms (98.33%) | 12.7 MB (50.10%) |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](Python/Math/9_palindrome_number.py) | Easy | 44 ms (90.32%) | 12.8 MB (42.07%) |
