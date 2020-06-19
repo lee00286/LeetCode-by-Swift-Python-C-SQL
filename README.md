@@ -35,6 +35,7 @@
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](Python/String/20_Valid_Parentheses.py) | Easy | 16 ms (90.91%) | 12.9 MB (25.60%) |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](Python/String/242_Valid_Anagram.py) | Easy | 48 ms (54.93%) | 13.4 MB (97.49%) |
 
 
 ## LeetCode by C
