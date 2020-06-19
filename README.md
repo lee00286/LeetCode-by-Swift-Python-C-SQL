@@ -24,6 +24,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](Python/Array/01_two_sum.py) | Easy | 28 ms (98.70%) | 14.1 MB (30.66%) |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](Python/Array/167_two_sum_II.py) | Easy | 44 ms (93.95%) | 13.4 MB (8.96%) |
+| 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [Python](Python/Array/401_binary_watch.py) | Easy | 20 ms (71.98%) | 12.8 MB (44.58%) |
 
 ### Math
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
