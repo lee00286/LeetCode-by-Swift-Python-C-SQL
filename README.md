@@ -11,6 +11,7 @@
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Swift](Swift/Array/001_two_sum.swift) | Easy | 36 ms (69.84%) | 21.3 MB (44.99%) |
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Swift](Swift/Array/485_max_consecutive_ones.swift) | Easy | 288 ms (71.75%) | 21.3 MB (35.37%) |
 
 ### Math
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
