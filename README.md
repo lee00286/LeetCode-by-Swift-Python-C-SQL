@@ -37,6 +37,7 @@
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](Python/String/20_valid_parentheses.py) | Easy | 16 ms (90.91%) | 12.9 MB (25.60%) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](Python/String/242_valid_anagram.py) | Easy | 48 ms (54.93%) | 13.4 MB (97.49%) |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python](Python/String/290_word_pattern.py) | Easy | 8 ms (99.33%) | 12.6 MB (100.00%) |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](Python/String/344_reverse_string.py) | Easy | 188 ms (23.86%) | 44.1 MB (5.05%) |
 
 
 ## LeetCode by C
