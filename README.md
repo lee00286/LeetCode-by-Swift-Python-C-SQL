@@ -40,4 +40,5 @@
 ### Linked List
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C](C/Linked-List/2_add_numbers.c) | Medium | 12 ms (79.76%) | 7.2 MB (88.54%) |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C](C/Linked-List/24_swap_nodes.c) | Medium | 0 ms (100.00%) | 5.5 MB (59.43%) |
