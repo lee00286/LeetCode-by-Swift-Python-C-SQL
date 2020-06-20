@@ -51,3 +51,4 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C](C/Linked-List/002_add_numbers.c) | Medium | 12 ms (79.76%) | 7.2 MB (88.54%) |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C](C/Linked-List/024_swap_nodes.c) | Medium | 0 ms (100.00%) | 5.5 MB (59.43%) |
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C](C/Linked-List/237_delete_node.c) | Easy | 0 ms (100.00%) | 5.5 MB (59.43%) |
