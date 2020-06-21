@@ -35,6 +35,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](Python/Math/007_reverse_integer.py) | Easy | 12 ms (98.33%) | 12.7 MB (50.10%) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](Python/Math/009_palindrome_number.py) | Easy | 44 ms (90.32%) | 12.8 MB (42.07%) |
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Python](Python/Math/292_nim_game.py) | Easy | 16 ms (73.57%) | 12.8 MB (38.45%) |
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Python](Python/Math/371_two_integers_sum.py) | Easy | 16 ms (70.42%) | 12.8 MB (41.10%) |
 
 ### String
