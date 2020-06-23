@@ -17,6 +17,7 @@
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Swift](Swift/Math/009_palindrome_number.swift) | Easy | 24 ms (100.00%) | 21.2 MB (40.85%) |
+| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Swift](Swift/Math/263_ugly_number.swift) | Easy | 8 ms (76.19%) | 20.4 MB (100.00%) |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Swift](Swift/Math/292_nim_game.swift) | Easy | 4 ms (88.71%) | 20.9 MB (35.11%) |
 
 
