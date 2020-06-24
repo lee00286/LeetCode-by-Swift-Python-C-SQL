@@ -1,5 +1,25 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
+        if (len(ransomNote) > len(magazine)):
+            return False
+        elif (ransomNote == ''):
+            return True
+        
+        ransomDict = {}
+        
+        # Convert magazine into a dictionary
+        for char in magazine:
+            ransomDict[char] = ransomDict.get(char, 0) + 1
+        
+        for char in ransomNote:
+            # If char of ransomNote in magazine
+            if (ransomDict.get(char, 0) != 0): 
+                ransomDict[char] -= 1
+            # If char of ransomNote not in magazine
+            else:
+                return False
+        
+        return True
         
         '''
         # Using While Loop
