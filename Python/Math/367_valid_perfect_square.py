@@ -1,5 +1,35 @@
 class Solution:
     def isPerfectSquare(self, num: int) -> bool:
+        # Newton's Law
+        
+        r = num
+        
+        # if num != 1
+        while (r * r > num):
+            r = (r + num / r) // 2
+        
+        return r * r == num
+    
+        '''
+        # Binary Search
+        
+        left = 0
+        right = num
+        
+        while (left <= right):
+            mid = left + (right - left) // 2
+            if (mid ** 2 == num):
+                return True
+            elif (mid ** 2 > num):
+                right = mid - 1
+            else:
+                left = mid + 1
+        return False
+        '''
+    
+        '''
+        # Linear Search
+        
         # 1 is a perfect square
         if (num == 1):
             return True
@@ -17,4 +47,5 @@ class Solution:
             for j in range (2 ** 31 - 1, (2 ** 31 - 1) // 2, -1):
                 if (num > j ** 2):
                     return num == (j + 1) ** 2
+        '''
             
