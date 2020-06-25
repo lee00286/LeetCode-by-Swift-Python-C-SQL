@@ -1,16 +1,5 @@
 class Solution:
     def isPerfectSquare(self, num: int) -> bool:
-        # Newton's Law
-        
-        r = num
-        
-        # if num != 1
-        while (r * r > num):
-            r = (r + num / r) // 2
-        
-        return r * r == num
-    
-        '''
         # Binary Search
         
         left = 0
@@ -25,6 +14,17 @@ class Solution:
             else:
                 left = mid + 1
         return False
+    
+        '''
+        # Newton's Law
+        
+        r = num
+        
+        # if num != 1
+        while (r * r > num):
+            r = (r + num / r) // 2
+        
+        return r * r == num
         '''
     
         '''
