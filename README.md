@@ -39,6 +39,7 @@
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](Python/Math/009_palindrome_number.py) | Easy | 44 ms (90.32%) | 12.8 MB (42.07%) |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Python](Python/Math/263_ugly_number.py) | Easy | 16 ms (88.03%) | 12.6 MB (90.51%) |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Python](Python/Math/292_nim_game.py) | Easy | 16 ms (73.57%) | 12.8 MB (38.45%) |
+| 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Python](Python/Math/367_valid_perfect_square.py) | Easy | 16 ms (70.42%) | 12.8 MB (41.10%) |
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Python](Python/Math/371_two_integers_sum.py) | Easy | 16 ms (70.42%) | 12.8 MB (41.10%) |
 
 ### String
