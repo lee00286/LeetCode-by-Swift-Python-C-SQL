@@ -31,7 +31,7 @@
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Python](Python/Array/268_missing_number.py) | Easy | 120 ms (62.09%) | 13.7 MB (68.94%) |
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [Python](Python/Array/401_binary_watch.py) | Easy | 20 ms (71.98%) | 12.8 MB (44.58%) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Python](Python/Array/485_max_consecutive_ones.py) | Easy | 320 ms (87.26%) | 12.9 MB (88.49%) |
-| 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Python](Python/Array/500_keyboard_row.py) | Easy |  |  |
+| 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Python](Python/Array/500_keyboard_row.py) | Easy | 20 ms (97.99%) | 13.8 MB (50.68%) |
 
 ### Math
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
