@@ -65,4 +65,4 @@
 ## LeetCode by SQL
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [C](SQL/595_big_countries.sql) | Easy | 237 ms (99.81%) | 0 B (100.00%) |
+| 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [SQL](SQL/595_big_countries.sql) | Easy | 237 ms (99.81%) | 0 B (100.00%) |
