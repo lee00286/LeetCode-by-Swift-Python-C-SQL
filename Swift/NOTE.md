@@ -27,3 +27,12 @@ var len = str.count
 print( "Length of str is \(len)" )
 >> Length of str is 13
 ```
+
+### Filters a Collection of the Same Type Containing
+Returns a new collection of the same type containing, in order, the elements of the original collection that satisfy the given predicate.
+```
+let cast = ["ABCDEF", "UVWXYZ", "MNO", "K"]
+let shortNames = cast.filter { $0.count < 5 }
+print(shortNames)
+>> ["Kim", "Karl"]
+```
