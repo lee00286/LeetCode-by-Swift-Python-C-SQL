@@ -21,6 +21,10 @@
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Swift](Swift/Math/263_ugly_number.swift) | Easy | 8 ms (76.19%) | 20.4 MB (100.00%) |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Swift](Swift/Math/292_nim_game.swift) | Easy | 4 ms (88.71%) | 20.9 MB (35.11%) |
 
+### String
+| # | Title | Solution | Difficulty | Runtime | Memory Usage |
+| 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Swift](Swift/String/551_attendance_record_one.swift) | Easy | 4 ms (89.13%) | 21.8 MB (10.64%) |
+
 
 ## LeetCode by Python
 ### Array
