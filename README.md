@@ -23,6 +23,7 @@
 
 ### String
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Swift](Swift/String/551_attendance_record_one.swift) | Easy | 4 ms (89.13%) | 21.8 MB (10.64%) |
 
 
