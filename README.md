@@ -53,6 +53,7 @@
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python](Python/String/290_word_pattern.py) | Easy | 8 ms (99.33%) | 12.6 MB (100.00%) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](Python/String/344_reverse_string.py) | Easy | 188 ms (23.86%) | 44.1 MB (5.05%) |
 | 383 | [Random Note](https://leetcode.com/problems/ransom-note/) | [Python](Python/String/383_random_note.py) | Easy | 68 ms (44.15%) | 13.9 MB (73.26%) |
+| 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Python](Python/String/551_attendance_record_one.py) | Easy | 28 ms (74.71%) | 13.9 MB (39.20%) |
 
 
 ## LeetCode by C
