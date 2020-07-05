@@ -35,6 +35,7 @@
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](Python/Array/036_valid_sudoku.py) | Medium | 76 ms (91.19%) | 12.9 MB (25.58%) |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](Python/Array/167_two_sum_II.py) | Easy | 44 ms (93.95%) | 13.4 MB (8.96%) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Python](Python/Array/268_missing_number.py) | Easy | 120 ms (62.09%) | 13.7 MB (68.94%) |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](Python/Array/349_intersection_arrays.py) | Easy | 84 ms (12.03%) | 14.1 MB (22.81%) |
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [Python](Python/Array/401_binary_watch.py) | Easy | 20 ms (71.98%) | 12.8 MB (44.58%) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Python](Python/Array/485_max_consecutive_ones.py) | Easy | 320 ms (87.26%) | 12.9 MB (88.49%) |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Python](Python/Array/500_keyboard_row.py) | Easy | 20 ms (97.99%) | 13.8 MB (50.68%) |
