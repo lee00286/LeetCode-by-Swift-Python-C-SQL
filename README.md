@@ -72,6 +72,11 @@
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C](C/Linked-List/024_swap_nodes.c) | Medium | 0 ms (100.00%) | 5.5 MB (59.43%) |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C](C/Linked-List/237_delete_node.c) | Easy | 4 ms (92.20%) | 6.1 MB (59.76%) |
 
+### Math
+| # | Title | Solution | Difficulty | Runtime | Memory Usage |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [C](C/Math/326_power_of_three.c) | Easy | 24 ms (27.56%) | 5.7 MB (88.75%) |
+
 ## LeetCode by SQL
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
