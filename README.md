@@ -75,7 +75,7 @@
 ### Math
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [C](C/Math/326_power_of_three.c) | Easy | 24 ms (27.56%) | 5.7 MB (88.75%) |
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [C](C/Math/326_power_of_three.c) | Easy | 16 ms (59.45%) | 5.8 MB (71.25%) |
 
 ## LeetCode by SQL
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
