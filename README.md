@@ -82,3 +82,4 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [SQL](SQL/595_big_countries.sql) | Easy | 237 ms (99.81%) | 0 B (100.00%) |
 | 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [SQL](SQL/596_more_than_five.sql) | Easy | 264 ms (97.67%) | 0 B (100.00%) |
+| 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [SQL](SQL/620_not_boring_movies.sql) | Easy | 183 ms (98.39%) | 0 B (100.00%) |
