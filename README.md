@@ -6,6 +6,7 @@
 - [LeetCode by C](#leetcode-by-c)
 - [LeetCode by SQL](#leetcode-by-sql)
 
+---
 
 ## LeetCode by Swift
 ### Array
@@ -27,6 +28,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Swift](Swift/String/551_attendance_record_one.swift) | Easy | 4 ms (89.13%) | 21.8 MB (10.64%) |
 
+---
 
 ## LeetCode by Python
 ### Array
@@ -63,6 +65,7 @@
 | 383 | [Random Note](https://leetcode.com/problems/ransom-note/) | [Python](Python/String/383_random_note.py) | Easy | 68 ms (44.15%) | 13.9 MB (73.26%) |
 | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Python](Python/String/551_attendance_record_one.py) | Easy | 28 ms (74.71%) | 13.9 MB (39.20%) |
 
+---
 
 ## LeetCode by C
 ### Linked List
@@ -76,6 +79,8 @@
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [C](C/Math/326_power_of_three.c) | Easy | 16 ms (59.45%) | 5.8 MB (71.25%) |
+
+---
 
 ## LeetCode by SQL
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
