@@ -81,7 +81,7 @@
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [SQL](SQL/175_combine_two_tables.sql) | Easy | 366 ms (80.10%) | 0 B (100.00%) |
-| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [SQL](SQL/176_second_highest_salary) | Easy | 330 ms (46.50%) | 0 B (100.00%) |
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [SQL](SQL/176_second_highest_salary.sql) | Easy | 330 ms (46.50%) | 0 B (100.00%) |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [SQL](SQL/196_delete_duplicate_emails.sql) | Easy | 2101 ms (56.82%) | 0 B (100.00%) |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [SQL](SQL/595_big_countries.sql) | Easy | 237 ms (99.81%) | 0 B (100.00%) |
 | 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [SQL](SQL/596_more_than_five.sql) | Easy | 264 ms (97.67%) | 0 B (100.00%) |
