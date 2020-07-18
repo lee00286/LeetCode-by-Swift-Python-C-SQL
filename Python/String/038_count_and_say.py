@@ -5,29 +5,28 @@ class Solution:
         
         def countCon(num: str) -> str:
             i = 0
-            cons = ''
+            cons = ""
+            latest = ""
             count = 0
             
             # Count number of consecutives
-            while (i < len(num)):
-                # Count number of consecutive 1s
-                if (num[i] == '1'):
-                    # If consecutive
-                    if (count >= 0):
-                        count += 1
-                    else:
-                        cons += str(count) + '1'
-                        count = 0
-                # Count number of consecutive 2s
+            for char in num:
+                # First consecutive
+                if (latest == ""):
+                    latest = char
+                    count += 1
                 else:
                     # If consecutive
-                    if (count <= 0):
-                        count -= 1
+                    if (latest == char):
+                        count += 1
+                    # If not consecutive
                     else:
-                        cons += str(abs(count)) + '2'
+                        cons += str(count) + latest
+                        latest = ""
                         count = 0
-                i += 1
-                
+            
+            cons += str(count) + latest
+            
             return cons
                     
         # None Case
