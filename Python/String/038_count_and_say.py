@@ -22,8 +22,8 @@ class Solution:
                     # If not consecutive
                     else:
                         cons += str(count) + latest
-                        latest = ""
-                        count = 0
+                        latest = char
+                        count = 1
             
             cons += str(count) + latest
             
