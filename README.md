@@ -58,6 +58,7 @@
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](Python/String/020_valid_parentheses.py) | Easy | 16 ms (90.91%) | 12.9 MB (25.60%) |
+| 27 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](Python/String/027_implement_strstr.py) | Easy | 20 ms (99.15%) | 14.1 MB (23.38%) |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Python](Python/String/038_count_and_say.py) | Easy | 36 ms (69.99%) | 13.9 MB (54.59%) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](Python/String/242_valid_anagram.py) | Easy | 48 ms (54.93%) | 13.4 MB (97.49%) |
 | 273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [Python](Python/String/273_int_to_eng.py) | Hard | 16 ms (92.36%) | 12.7 MB (73.82%) |
