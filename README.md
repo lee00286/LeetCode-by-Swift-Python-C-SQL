@@ -34,14 +34,14 @@
 ### Array
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](Python/Array/001_two_sum.py) | Easy | 28 ms (98.70%) | 14.1 MB (30.66%) |
-| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](Python/Array/036_valid_sudoku.py) | Medium | 76 ms (91.19%) | 12.9 MB (25.58%) |
-| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](Python/Array/167_two_sum_II.py) | Easy | 44 ms (93.95%) | 13.4 MB (8.96%) |
-| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Python](Python/Array/268_missing_number.py) | Easy | 120 ms (62.09%) | 13.7 MB (68.94%) |
-| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](Python/Array/349_intersection_arrays.py) | Easy | 84 ms (12.03%) | 14.1 MB (22.81%) |
-| 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [Python](Python/Array/401_binary_watch.py) | Easy | 20 ms (71.98%) | 12.8 MB (44.58%) |
-| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Python](Python/Array/485_max_consecutive_ones.py) | Easy | 320 ms (87.26%) | 12.9 MB (88.49%) |
-| 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Python](Python/Array/500_keyboard_row.py) | Easy | 20 ms (97.99%) | 13.8 MB (50.68%) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](Python/Array/0001_two_sum.py) | Easy | 28 ms (98.70%) | 14.1 MB (30.66%) |
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](Python/Array/0036_valid_sudoku.py) | Medium | 76 ms (91.19%) | 12.9 MB (25.58%) |
+| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](Python/Array/0167_two_sum_II.py) | Easy | 44 ms (93.95%) | 13.4 MB (8.96%) |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Python](Python/Array/0268_missing_number.py) | Easy | 120 ms (62.09%) | 13.7 MB (68.94%) |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](Python/Array/0349_intersection_arrays.py) | Easy | 84 ms (12.03%) | 14.1 MB (22.81%) |
+| 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [Python](Python/Array/0401_binary_watch.py) | Easy | 20 ms (71.98%) | 12.8 MB (44.58%) |
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Python](Python/Array/0485_max_consecutive_ones.py) | Easy | 320 ms (87.26%) | 12.9 MB (88.49%) |
+| 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Python](Python/Array/0500_keyboard_row.py) | Easy | 20 ms (97.99%) | 13.8 MB (50.68%) |
 
 ### Math
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
@@ -59,15 +59,15 @@
 ### String
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](Python/String/020_valid_parentheses.py) | Easy | 16 ms (90.91%) | 12.9 MB (25.60%) |
-| 27 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](Python/String/027_implement_strstr.py) | Easy | 20 ms (99.15%) | 14.1 MB (23.38%) |
-| 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Python](Python/String/038_count_and_say.py) | Easy | 36 ms (69.99%) | 13.9 MB (54.59%) |
-| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](Python/String/242_valid_anagram.py) | Easy | 48 ms (54.93%) | 13.4 MB (97.49%) |
-| 273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [Python](Python/String/273_int_to_eng.py) | Hard | 16 ms (92.36%) | 12.7 MB (73.82%) |
-| 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python](Python/String/290_word_pattern.py) | Easy | 8 ms (99.33%) | 12.6 MB (100.00%) |
-| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](Python/String/344_reverse_string.py) | Easy | 188 ms (23.86%) | 44.1 MB (5.05%) |
-| 383 | [Random Note](https://leetcode.com/problems/ransom-note/) | [Python](Python/String/383_random_note.py) | Easy | 68 ms (44.15%) | 13.9 MB (73.26%) |
-| 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Python](Python/String/551_attendance_record_one.py) | Easy | 28 ms (74.71%) | 13.9 MB (39.20%) |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](Python/String/0020_valid_parentheses.py) | Easy | 16 ms (90.91%) | 12.9 MB (25.60%) |
+| 27 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](Python/String/0027_implement_strstr.py) | Easy | 20 ms (99.15%) | 14.1 MB (23.38%) |
+| 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Python](Python/String/0038_count_and_say.py) | Easy | 36 ms (69.99%) | 13.9 MB (54.59%) |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](Python/String/0242_valid_anagram.py) | Easy | 48 ms (54.93%) | 13.4 MB (97.49%) |
+| 273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [Python](Python/String/0273_int_to_eng.py) | Hard | 16 ms (92.36%) | 12.7 MB (73.82%) |
+| 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python](Python/String/0290_word_pattern.py) | Easy | 8 ms (99.33%) | 12.6 MB (100.00%) |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](Python/String/0344_reverse_string.py) | Easy | 188 ms (23.86%) | 44.1 MB (5.05%) |
+| 383 | [Random Note](https://leetcode.com/problems/ransom-note/) | [Python](Python/String/0383_random_note.py) | Easy | 68 ms (44.15%) | 13.9 MB (73.26%) |
+| 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Python](Python/String/0551_attendance_record_one.py) | Easy | 28 ms (74.71%) | 13.9 MB (39.20%) |
 
 ---
 
