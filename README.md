@@ -53,7 +53,7 @@
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Python](Python/Math/326_power_of_three.py) | Easy | 76 ms (80.00%) | 13.7 MB (89.35%) |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Python](Python/Math/367_valid_perfect_square.py) | Easy | 24 ms (93.49%) | 13.8 MB (48.28%) |
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Python](Python/Math/371_two_integers_sum.py) | Easy | 16 ms (70.42%) | 12.8 MB (41.10%) |
-| 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Python](Python/Math/1351_count_negative_numbers_in_a_sorted_matrix.py) | Easy | 200 ms (15.94%) | 14.8 MB (45.78%) |
+| 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Python](Python/Math/1351_count_negative_numbers_in_a_sorted_matrix.py) | Easy | 132 ms (60.84%) | 14.6 MB (95.38%) |
 
 ### String
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
