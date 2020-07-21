@@ -54,6 +54,7 @@
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Python](Python/Math/367_valid_perfect_square.py) | Easy | 24 ms (93.49%) | 13.8 MB (48.28%) |
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Python](Python/Math/371_two_integers_sum.py) | Easy | 16 ms (70.42%) | 12.8 MB (41.10%) |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Python](Python/Math/1351_count_negative_numbers_in_a_sorted_matrix.py) | Easy | 132 ms (60.84%) | 14.6 MB (95.38%) |
+| 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Python](Python/Math/1380_lucky_numbers_in_a_matrix.py) | Easy | 168 ms (40.78%) | 13.9 MB (85.56%) |
 
 ### String
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
