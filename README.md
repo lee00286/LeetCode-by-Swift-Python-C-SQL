@@ -46,13 +46,13 @@
 ### Math
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](Python/Math/007_reverse_integer.py) | Easy | 12 ms (98.33%) | 12.7 MB (50.10%) |
-| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](Python/Math/009_palindrome_number.py) | Easy | 44 ms (90.32%) | 12.8 MB (42.07%) |
-| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Python](Python/Math/263_ugly_number.py) | Easy | 16 ms (88.03%) | 12.6 MB (90.51%) |
-| 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Python](Python/Math/292_nim_game.py) | Easy | 16 ms (73.57%) | 12.8 MB (38.45%) |
-| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Python](Python/Math/326_power_of_three.py) | Easy | 76 ms (80.00%) | 13.7 MB (89.35%) |
-| 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Python](Python/Math/367_valid_perfect_square.py) | Easy | 24 ms (93.49%) | 13.8 MB (48.28%) |
-| 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Python](Python/Math/371_two_integers_sum.py) | Easy | 16 ms (70.42%) | 12.8 MB (41.10%) |
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](Python/Math/0007_reverse_integer.py) | Easy | 12 ms (98.33%) | 12.7 MB (50.10%) |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](Python/Math/0009_palindrome_number.py) | Easy | 44 ms (90.32%) | 12.8 MB (42.07%) |
+| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Python](Python/Math/0263_ugly_number.py) | Easy | 16 ms (88.03%) | 12.6 MB (90.51%) |
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Python](Python/Math/0292_nim_game.py) | Easy | 16 ms (73.57%) | 12.8 MB (38.45%) |
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Python](Python/Math/0326_power_of_three.py) | Easy | 76 ms (80.00%) | 13.7 MB (89.35%) |
+| 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Python](Python/Math/0367_valid_perfect_square.py) | Easy | 24 ms (93.49%) | 13.8 MB (48.28%) |
+| 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Python](Python/Math/0371_two_integers_sum.py) | Easy | 16 ms (70.42%) | 12.8 MB (41.10%) |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Python](Python/Math/1351_count_negative_numbers_in_a_sorted_matrix.py) | Easy | 132 ms (60.84%) | 14.6 MB (95.38%) |
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Python](Python/Math/1380_lucky_numbers_in_a_matrix.py) | Easy | 168 ms (40.78%) | 13.9 MB (85.56%) |
 
