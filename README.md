@@ -42,6 +42,7 @@
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [Python](Python/Array/0401_binary_watch.py) | Easy | 20 ms (71.98%) | 12.8 MB (44.58%) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Python](Python/Array/0485_max_consecutive_ones.py) | Easy | 320 ms (87.26%) | 12.9 MB (88.49%) |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Python](Python/Array/0500_keyboard_row.py) | Easy | 20 ms (97.99%) | 13.8 MB (50.68%) |
+| 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [Python](Python/Array/0542_zero_one_matrix.py) | Medium | 552 ms (98.50%) | 15.8 MB (95.65%) |
 
 ### Math
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
