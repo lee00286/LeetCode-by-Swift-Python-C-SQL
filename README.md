@@ -56,7 +56,7 @@
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Python](Python/Math/1351_count_negative_numbers_in_a_sorted_matrix.py) | Easy | 132 ms (60.84%) | 14.6 MB (95.38%) |
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Python](Python/Math/1380_lucky_numbers_in_a_matrix.py) | Easy | 168 ms (40.78%) | 13.9 MB (85.56%) |
 
-### Array
+### Matrix
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [Python](Python/Matrix/0542_zero_one_matrix.py) | Medium | 552 ms (98.50%) | 15.8 MB (95.65%) |
