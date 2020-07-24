@@ -12,16 +12,16 @@
 ### Array
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Swift](Swift/Array/001_two_sum.swift) | Easy | 36 ms (69.84%) | 21.3 MB (44.99%) |
-| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Swift](Swift/Array/485_max_consecutive_ones.swift) | Easy | 288 ms (71.75%) | 21.3 MB (35.37%) |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Swift](Swift/Array/0001_two_sum.swift) | Easy | 36 ms (69.84%) | 21.3 MB (44.99%) |
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Swift](Swift/Array/0485_max_consecutive_ones.swift) | Easy | 288 ms (71.75%) | 21.3 MB (35.37%) |
 
 ### Math
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Swift](Swift/Math/009_palindrome_number.swift) | Easy | 24 ms (100.00%) | 21.2 MB (40.85%) |
-| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Swift](Swift/Math/263_ugly_number.swift) | Easy | 8 ms (76.19%) | 20.4 MB (100.00%) |
-| 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Swift](Swift/Math/292_nim_game.swift) | Easy | 4 ms (88.71%) | 20.9 MB (35.11%) |
-| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Swift](Swift/Math/326_power_of_three.swift) | Easy | 80 ms (30.34%) | 21 MB (92.11%) |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Swift](Swift/Math/0009_palindrome_number.swift) | Easy | 24 ms (100.00%) | 21.2 MB (40.85%) |
+| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Swift](Swift/Math/0263_ugly_number.swift) | Easy | 8 ms (76.19%) | 20.4 MB (100.00%) |
+| 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Swift](Swift/Math/0292_nim_game.swift) | Easy | 4 ms (88.71%) | 20.9 MB (35.11%) |
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Swift](Swift/Math/0326_power_of_three.swift) | Easy | 80 ms (30.34%) | 21 MB (92.11%) |
 
 ### Matrix
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
@@ -31,7 +31,7 @@
 ### String
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Swift](Swift/String/551_attendance_record_one.swift) | Easy | 4 ms (89.13%) | 21.8 MB (10.64%) |
+| 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Swift](Swift/String/0551_attendance_record_one.swift) | Easy | 4 ms (89.13%) | 21.8 MB (10.64%) |
 
 ---
 
