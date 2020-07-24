@@ -23,6 +23,11 @@
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Swift](Swift/Math/292_nim_game.swift) | Easy | 4 ms (88.71%) | 20.9 MB (35.11%) |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Swift](Swift/Math/326_power_of_three.swift) | Easy | 80 ms (30.34%) | 21 MB (92.11%) |
 
+### Matrix
+| # | Title | Solution | Difficulty | Runtime | Memory Usage |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [Swift](Swift/Matrix/0542_zero_one_matrix.swift) | Medium | 536 ms (93.94%) | 22.1 MB (100.00%) |
+
 ### String
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
