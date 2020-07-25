@@ -65,6 +65,7 @@
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [Python](Python/Matrix/0542_zero_one_matrix.py) | Medium | 552 ms (98.50%) | 15.8 MB (95.65%) |
+| 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Python](Python/Matrix/0766_toeplitz_matrix.py) | Easy | 84 ms (94.38%) | 13.8 MB (74.67%) |
 
 ### String
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
