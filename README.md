@@ -27,6 +27,7 @@
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [Swift](Swift/Matrix/0542_zero_one_matrix.swift) | Medium | 536 ms (93.94%) | 22.1 MB (100.00%) |
+| 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Swift](Swift/Matrix/0766_toeplitz_matrix.swift) | Easy | 72 ms (95.83%) | 20.7 MB (87.50%) |
 
 ### String
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
