@@ -89,14 +89,14 @@
 ### Linked List
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C](C/Linked-List/002_add_numbers.c) | Medium | 12 ms (79.76%) | 7.2 MB (88.54%) |
-| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C](C/Linked-List/024_swap_nodes.c) | Medium | 0 ms (100.00%) | 5.5 MB (59.43%) |
-| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C](C/Linked-List/237_delete_node.c) | Easy | 4 ms (92.20%) | 6.1 MB (59.76%) |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C](C/Linked-List/0002_add_numbers.c) | Medium | 12 ms (79.76%) | 7.2 MB (88.54%) |
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C](C/Linked-List/0024_swap_nodes.c) | Medium | 0 ms (100.00%) | 5.5 MB (59.43%) |
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [C](C/Linked-List/0237_delete_node.c) | Easy | 4 ms (92.20%) | 6.1 MB (59.76%) |
 
 ### Math
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [C](C/Math/326_power_of_three.c) | Easy | 16 ms (59.45%) | 5.8 MB (71.25%) |
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [C](C/Math/0326_power_of_three.c) | Easy | 16 ms (59.45%) | 5.8 MB (71.25%) |
 
 ---
 
