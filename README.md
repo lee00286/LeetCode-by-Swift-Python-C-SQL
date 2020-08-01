@@ -103,10 +103,10 @@
 ## LeetCode by SQL
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [SQL](SQL/175_combine_two_tables.sql) | Easy | 366 ms (80.10%) | 0 B (100.00%) |
-| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [SQL](SQL/176_second_highest_salary.sql) | Easy | 330 ms (46.50%) | 0 B (100.00%) |
-| 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [SQL](SQL/183_customers_who_never_order.sql) | Easy | 538 ms (65.86%) | 0 B (100.00%) |
-| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [SQL](SQL/196_delete_duplicate_emails.sql) | Easy | 2101 ms (56.82%) | 0 B (100.00%) |
-| 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [SQL](SQL/595_big_countries.sql) | Easy | 237 ms (99.81%) | 0 B (100.00%) |
-| 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [SQL](SQL/596_more_than_five.sql) | Easy | 264 ms (97.67%) | 0 B (100.00%) |
-| 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [SQL](SQL/620_not_boring_movies.sql) | Easy | 183 ms (98.39%) | 0 B (100.00%) |
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [SQL](SQL/0175_combine_two_tables.sql) | Easy | 366 ms (80.10%) | 0 B (100.00%) |
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [SQL](SQL/0176_second_highest_salary.sql) | Easy | 330 ms (46.50%) | 0 B (100.00%) |
+| 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [SQL](SQL/0183_customers_who_never_order.sql) | Easy | 538 ms (65.86%) | 0 B (100.00%) |
+| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [SQL](SQL/0196_delete_duplicate_emails.sql) | Easy | 2101 ms (56.82%) | 0 B (100.00%) |
+| 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [SQL](SQL/0595_big_countries.sql) | Easy | 237 ms (99.81%) | 0 B (100.00%) |
+| 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [SQL](SQL/0596_more_than_five.sql) | Easy | 264 ms (97.67%) | 0 B (100.00%) |
+| 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [SQL](SQL/0620_not_boring_movies.sql) | Easy | 183 ms (98.39%) | 0 B (100.00%) |
