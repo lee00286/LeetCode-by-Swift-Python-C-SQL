@@ -1,8 +1,9 @@
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
-        # One word in strs
+        # Only one word in strs
         if (len(strs) == 1):
             return strs[0]
+        # There's empty chracter in strs
         if ("" in strs):
             return ""
     
@@ -26,7 +27,7 @@ class Solution:
                     minimum = min(len(prefix), len(strs[i]), len(strs[i + 1]))
 
                 # Minimum prefix of strs[i][:j] and strs[i + 1][:j]
-                while (j < minimum):
+                while (j < minimum + 1):
                     if (strs[i][:j] != strs[i + 1][:j]):
                         break
                     j += 1
