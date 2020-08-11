@@ -8,18 +8,15 @@ class Solution:
         
         dicSub = {}
         left = 0
-        count = 0
         largest = 0
         
         for i in range(len(s)):
             if (s[i] in dicSub):
-                count = i - left
-                largest = max(largest, count)
-                left = dicSub[s[i]] + 1
+                largest = max(largest, i - left)
+                left = max(left, dicSub[s[i]] + 1)
             dicSub[s[i]] = i
-        
-        count = len(s[left:i])
-        return max(largest, count)
+            
+        return max(largest, len(s) - left)
     
         '''
         # Using for loop
