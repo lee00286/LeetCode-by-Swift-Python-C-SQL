@@ -33,6 +33,7 @@
 ### String
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Swift](Swift/String/0003_longest_substring_without_repeating_characters.swift) | Medium | ms (%) | MB (%) |
 | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Swift](Swift/String/0551_attendance_record_one.swift) | Easy | 4 ms (89.13%) | 21.8 MB (10.64%) |
 
 ---
@@ -73,7 +74,7 @@
 ### String
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](Python/String/0003_longest_substring_without_repeating_characters.py) | Medium | 56 ms (88,43%) | 13.9 MB (63.78%) |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](Python/String/0003_longest_substring_without_repeating_characters.py) | Medium | 56 ms (88.43%) | 13.9 MB (63.78%) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](Python/String/0014_longest_common_prefix.py) | Easy | 36 ms (68.12%) | 14 MB (23.87%) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](Python/String/0020_valid_parentheses.py) | Easy | 16 ms (90.91%) | 12.9 MB (25.60%) |
 | 27 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](Python/String/0027_implement_strstr.py) | Easy | 20 ms (99.15%) | 14.1 MB (23.38%) |
