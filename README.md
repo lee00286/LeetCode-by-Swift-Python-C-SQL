@@ -33,7 +33,7 @@
 ### String
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Swift](Swift/String/0003_longest_substring_without_repeating_characters.swift) | Medium | ms (%) | MB (%) |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Swift](Swift/String/0003_longest_substring_without_repeating_characters.swift) | Medium | 52 ms (73.94%) | 20.9 MB (85.38%) |
 | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Swift](Swift/String/0551_attendance_record_one.swift) | Easy | 4 ms (89.13%) | 21.8 MB (10.64%) |
 
 ---
