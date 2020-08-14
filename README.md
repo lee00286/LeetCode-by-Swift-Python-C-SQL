@@ -18,6 +18,7 @@
 ### Math
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Swift](Swift/Math/0007_reverse_integer.swift) | Easy | ms (%) | MB (%) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Swift](Swift/Math/0009_palindrome_number.swift) | Easy | 24 ms (100.00%) | 21.2 MB (40.85%) |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Swift](Swift/Math/0263_ugly_number.swift) | Easy | 8 ms (76.19%) | 20.4 MB (100.00%) |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Swift](Swift/Math/0292_nim_game.swift) | Easy | 4 ms (88.71%) | 20.9 MB (35.11%) |
