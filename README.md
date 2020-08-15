@@ -8,7 +8,7 @@
 
 ---
 
-## LeetCode by Swift:
+## LeetCode by Swift
 ### Array
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
