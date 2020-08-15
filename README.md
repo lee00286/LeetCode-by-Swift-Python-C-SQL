@@ -1,7 +1,7 @@
 # LeetCode
 
 ## Table of Contents
-- [LeetCode by Swift](#leetcode-by-swift:)
+- [LeetCode by Swift](#leetcode-by-swift)
 - [LeetCode by Python](#leetcode-by-python)
 - [LeetCode by C](#leetcode-by-c)
 - [LeetCode by SQL](#leetcode-by-sql)
