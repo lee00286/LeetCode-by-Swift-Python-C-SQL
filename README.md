@@ -1,14 +1,14 @@
 # LeetCode
 
 ## Table of Contents
-- [LeetCode by Swift](#Leetcode-by-swift)
+- [LeetCode by Swift](#leetcode-by-swift:)
 - [LeetCode by Python](#leetcode-by-python)
 - [LeetCode by C](#leetcode-by-c)
 - [LeetCode by SQL](#leetcode-by-sql)
 
 ---
 
-## LeetCode by Swift
+## LeetCode by Swift:
 ### Array
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
