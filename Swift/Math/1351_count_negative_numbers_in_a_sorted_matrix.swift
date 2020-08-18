@@ -2,7 +2,7 @@ class Solution {
     func countNegatives(_ grid: [[Int]]) -> Int {
         // Use the Idea of Binary Sort
         // Function to find the first occurence of negative value
-        func findNegativeIndex(n: [[Int]]) -> Int {
+        func findNegativeIndex(n: [Int]) -> Int {
             if (n[0] < 0) {
                 return 0
             }
@@ -22,16 +22,18 @@ class Solution {
                 // Negative value is in right side
                 else {
                     left = right
-                    right += (len(n) - right) / 2
+                    right += (n.count - right) / 2
                 }
             }
+            
+            return right
         }
         
         var count = 0
         for i in (0..<grid.count) {
             // If there's negative value in grid[i]
-            if (grid[i].min() < 0) {
-                count += grid[i].count - findNegativeIndex(grid[i])
+            if (grid[i].min()! < 0) {
+                count += grid[i].count - findNegativeIndex(n: grid[i])
             }
         }
         return count
