@@ -23,7 +23,7 @@
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Swift](Swift/Math/0263_ugly_number.swift) | Easy | 8 ms (76.19%) | 20.4 MB (100.00%) |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Swift](Swift/Math/0292_nim_game.swift) | Easy | 4 ms (88.71%) | 20.9 MB (35.11%) |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Swift](Swift/Math/0326_power_of_three.swift) | Easy | 80 ms (30.34%) | 21 MB (92.11%) |
-| 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Swift](Swift/Math/1351_count_negative_numbers_in_a_sorted_matrix.swift) | Easy | ms (%) | MB (%) |
+| 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Swift](Swift/Math/1351_count_negative_numbers_in_a_sorted_matrix.swift) | Easy | 160 ms (61.24%) | 20.9 MB (75.97%) |
 
 ### Matrix
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
