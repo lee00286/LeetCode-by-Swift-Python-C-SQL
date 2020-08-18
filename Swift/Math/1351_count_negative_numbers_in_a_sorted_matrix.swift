@@ -30,7 +30,7 @@ class Solution {
         var count = 0
         for i in (0..<grid.count) {
             // If there's negative value in grid[i]
-            if (min(grid[i]) < 0) {
+            if (grid[i].min() < 0) {
                 count += grid[i].count - findNegativeIndex(grid[i])
             }
         }
