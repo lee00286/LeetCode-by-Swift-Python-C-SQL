@@ -5,31 +5,31 @@ class Solution {
         
         func countCon(num: String) -> String {
             var cons = ""
-            var latest = ""
+            var latest = String()
             var count = 0
             
             // Count number of consecutives
             for char in num {
                 // First consecutive
                 if (latest.isEmpty) {
-                    latest = char
+                    latest = String(char)
                     count += 1
                 }
                 else {
                     // If consecutive
-                    if (latest == char) {
+                    if (latest == String(char)) {
                         count += 1
                     }
                     // If not consecutive
                     else {
-                        cons += (count: String) + latest
-                        latest = char
+                        cons += String(count) + latest
+                        latest = String(char)
                         count = 1
                     }
                 }
             }
             
-            cons += (count: String) + latest
+            cons += String(count) + latest
             
             return cons
         }
