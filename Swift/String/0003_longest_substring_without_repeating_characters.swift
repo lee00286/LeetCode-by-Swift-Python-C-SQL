@@ -11,7 +11,7 @@ class Solution {
             // Count number of consecutives
             for char in num {
                 // First consecutive
-                if (latest == "") {
+                if (latest.isEmpty) {
                     latest = char
                     count += 1
                 }
@@ -35,7 +35,7 @@ class Solution {
         }
                     
         // None Case
-        if (!n || n <= 0) {
+        if (n <= 0) {
             return ""
         }
         // Base Case
