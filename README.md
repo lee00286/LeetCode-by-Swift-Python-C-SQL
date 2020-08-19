@@ -36,7 +36,7 @@
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Swift](Swift/String/0003_longest_substring_without_repeating_characters.swift) | Medium | 52 ms (73.94%) | 20.9 MB (85.38%) |
-| 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Swift](Swift/String/0038_count_and_say.swift) | Easy | ms (%) | MB (%) |
+| 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Swift](Swift/String/0038_count_and_say.swift) | Easy | 12 ms (75.27%) | 20.6 MB (79.57%) |
 | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Swift](Swift/String/0551_attendance_record_one.swift) | Easy | 4 ms (89.13%) | 21.8 MB (10.64%) |
 
 ---
