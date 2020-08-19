@@ -1,26 +1,51 @@
 class Solution {
-    func lengthOfLongestSubstring(_ s: String) -> Int {
-        // Base Cases
-        if (s == "") {
-            return 0
-        }
-        if (s.count == 1) {
-            return 1
-        }
+    func countAndSay(_ n: Int) -> String {
+        // Base Case: 1
+        // 2 = "11", 3 = "21", 4 = "1211", 5 = "111221"
         
-        //var dicSub = ["star": 0]
-        var dicSub: [Character: Int] = [:]
-        var left = 0
-        var largest = 0
-        
-        for (i, char) in s.enumerated() {
-            if (dicSub[char] != nil) {
-                largest = max(largest, i - left)
-                left = max(left, dicSub[char]! + 1)
-            }
-            dicSub.updateValue(i, forKey: char)
-        }
+        func countCon(num: String) -> String {
+            var cons = ""
+            var latest = ""
+            var count = 0
             
-        return max(largest, s.count - left)
+            // Count number of consecutives
+            for char in num {
+                // First consecutive
+                if (latest == "") {
+                    latest = char
+                    count += 1
+                }
+                else {
+                    // If consecutive
+                    if (latest == char) {
+                        count += 1
+                    }
+                    // If not consecutive
+                    else {
+                        cons += (count: String) + latest
+                        latest = char
+                        count = 1
+                    }
+                }
+            }
+            
+            cons += (count: String) + latest
+            
+            return cons
+        }
+                    
+        // None Case
+        if (!n || n <= 0) {
+            return ""
+        }
+        // Base Case
+        if (n == 1) {
+            return "1"
+        }
+        // Recursive Case
+        else {
+            // Count consecutives
+            return countCon(num: self.countAndSay(n - 1))
+        }
     }
 }
