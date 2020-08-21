@@ -5,10 +5,10 @@ class Solution {
         
         while (left <= right) {
             var mid: Int = left + (right - left) / 2
-            if (pow(mid, 2) == num) {
+            if (Int(pow(Double(mid), 2)) == num) {
                 return true
             }
-            else if (pow(mid, 2) > num) {
+            else if (Int(pow(Double(mid), 2)) > num) {
                 right = mid - 1
             }
             else {
