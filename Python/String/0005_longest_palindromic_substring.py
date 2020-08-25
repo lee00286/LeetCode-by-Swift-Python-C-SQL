@@ -18,11 +18,12 @@ class Solution:
         for i in range(len(s) - 1):
             j = 0
             while (j < length):
-                if (isPalindrome(s[i:length - j])):
-                    dicPalin[i] = length - j
-                    break
+                if (s[length - j - 1] == s[i]):
+                    if (isPalindrome(s[i:length - j])):
+                        dicPalin[i] = length - j - i
+                        break
                 j += 1
         
         key = max(dicPalin, key=dicPalin.get)
     
-        return s[key:dicPalin[key]]
+        return s[key:dicPalin[key] + key]
