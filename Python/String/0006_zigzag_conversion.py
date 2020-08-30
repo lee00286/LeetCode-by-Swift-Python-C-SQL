@@ -53,10 +53,9 @@ class Solution:
                     colNum += mod // i
                     
                 # Use mod to get the ith row
-                for j in range(colNum):
-                    if (j % 2 == 0):
-                        zigzag = zigzag + s[j * mod + i]
-                    else:
+                for j in range(colNum // 2):
+                    zigzag = zigzag + s[j * mod + i]
+                    if (j < colNum - 1 or colNum % 2 == 0):
                         zigzag = zigzag + s[numRows + i - 1]
             
             # Add colNum in dictionary
