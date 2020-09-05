@@ -36,7 +36,7 @@ class Solution:
                 
                 # Use mod to get the ith row
                 for j in range(colNum):
-                    zigzag = zigzag + s[j * mod]
+                    zigzag += s[j * mod]
             # Last Row
             elif (i == numRows - 1):
                 colNum = 2 * numRowDic[0]
@@ -45,7 +45,7 @@ class Solution:
                     
                 # Use mod to get the ith row
                 for j in range(colNum):
-                    zigzag = zigzag + s[j * mod + i]
+                    zigzag += s[j * mod + i]
             # Middle Row
             else:
                 colNum = 2 * numRowDic[0] - 1
@@ -54,9 +54,9 @@ class Solution:
                 
                 # Use mod to get the ith row
                 for j in range(colNum // 2):
-                    zigzag = zigzag + s[j * mod + i]
+                    zigzag += s[j * mod + i]
                     if (j < colNum - 1 or colNum % 2 == 0):
-                        zigzag = zigzag + s[mod - i]
+                        zigzag += s[mod - i]
             
             # Add colNum in dictionary
             numRowDic[i] = colNum
