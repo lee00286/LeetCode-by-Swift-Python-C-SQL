@@ -25,6 +25,16 @@ class Solution:
         16: 10000 >> 01111: 15 = 32 - 16 - 1
         '''
         
+        def powerTwo(two: int, N: int) -> int:
+            # Nearest multiple of 2
+            while (two <= N):
+                two *= 2
+            return two
+        
+        return powerTwo(2, N) - N - 1
+        
+        '''
+        # Without function
         compl = 2
         
         # Nearest multiple of 2
@@ -32,3 +42,4 @@ class Solution:
             compl = compl * 2
         
         return compl - N - 1
+        '''
