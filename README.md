@@ -107,6 +107,7 @@
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [C](C/Math/0326_power_of_three.c) | Easy | 16 ms (59.45%) | 5.8 MB (71.25%) |
+| 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Python](C/Math/1009_complement_of_base_10_integer.c) | Easy | 0 ms (100.00%) | 5.2 MB (48.84%) |
 
 ---
 
