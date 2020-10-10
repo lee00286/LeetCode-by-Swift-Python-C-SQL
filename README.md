@@ -49,6 +49,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](Python/Array/0001_two_sum.py) | Easy | 28 ms (98.70%) | 14.1 MB (30.66%) |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](Python/Array/0036_valid_sudoku.py) | Medium | 76 ms (91.19%) | 12.9 MB (25.58%) |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](Python/Array/0066_plus_one.py) | Easy |  |  |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](Python/Array/0167_two_sum_II.py) | Easy | 44 ms (93.95%) | 13.4 MB (8.96%) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Python](Python/Array/0268_missing_number.py) | Easy | 120 ms (62.09%) | 13.7 MB (68.94%) |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](Python/Array/0349_intersection_arrays.py) | Easy | 84 ms (12.03%) | 14.1 MB (22.81%) |
