@@ -62,7 +62,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](Python/Math/0007_reverse_integer.py) | Easy | 12 ms (98.33%) | 12.7 MB (50.10%) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Python](Python/Math/0009_palindrome_number.py) | Easy | 44 ms (90.32%) | 12.8 MB (42.07%) |
-| 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Python](Python/Math/0029_divide_two_integers.py) | Easy | ms (%) | MB (%) |
+| 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Python](Python/Math/0029_divide_two_integers.py) | Medium | ms (%) | MB (%) |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Python](Python/Math/0263_ugly_number.py) | Easy | 16 ms (88.03%) | 12.6 MB (90.51%) |
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Python](Python/Math/0292_nim_game.py) | Easy | 16 ms (73.57%) | 12.8 MB (38.45%) |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Python](Python/Math/0326_power_of_three.py) | Easy | 76 ms (80.00%) | 13.7 MB (89.35%) |
