@@ -1,5 +1,9 @@
 class Solution:
     def divide(self, dividend: int, divisor: int) -> int:
+        # Don't need to calculate
+        if (dividend == 0):
+            return 0
+        
         negative = 1
         # Return value is negative
         if ((dividend < 0) ^ (divisor < 0)):
@@ -9,18 +13,16 @@ class Solution:
         dividend = abs(dividend)
         divisor = abs(divisor)
         
-        # Don't need to calculate
-        if (divisor == 1):
-            # Overflow
-            if (negative * dividend > 2**31 - 1):
-                return 2**31 - 1
-            return negative * dividend
-        
         quotient = 0
         # Subtract dividend by divisor
         while (dividend >= divisor):
-            dividend -= divisor
-            quotient += 1
+            x = divisor
+            i = 1
+            while (dividend >= x + x):
+                x += x
+                i += i
+            dividend -= x
+            quotient += i
         
         # Overflow
         if (negative * quotient > 2**31 - 1):
