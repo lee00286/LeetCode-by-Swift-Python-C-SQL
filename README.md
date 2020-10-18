@@ -93,7 +93,7 @@
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Python](Python/String/0032_longest_valid_parentheses.py) | Hard |  |  |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Python](Python/String/0038_count_and_say.py) | Easy | 36 ms (69.99%) | 13.9 MB (54.59%) |
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Python](Python/String/0043_multiply_strings.py) | Medium | ms (%) | MB (%) |
-| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](Python/String/0242_valid_anagram.py) | Easy | 48 ms (54.93%) | 13.4 MB (97.49%) |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](Python/String/0242_valid_anagram.py) | Easy | 48 ms (54.93%) | 13.4 MB (97.49%) |d
 | 273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [Python](Python/String/0273_int_to_eng.py) | Hard | 16 ms (92.36%) | 12.7 MB (73.82%) |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python](Python/String/0290_word_pattern.py) | Easy | 8 ms (99.33%) | 12.6 MB (100.00%) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](Python/String/0344_reverse_string.py) | Easy | 188 ms (23.86%) | 44.1 MB (5.05%) |
