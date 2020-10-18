@@ -85,15 +85,15 @@
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](Python/String/0003_longest_substring_without_repeating_characters.py) | Medium | 56 ms (88.43%) | 13.9 MB (63.78%) |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](Python/String/0005_longest_palindromic_substring.py) | Medium | 1008 ms (75.10%) | 13.8 MB (84.63%) |
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python](Python/String/0006_zigzag_conversion.py) | Medium | ms (%) | MB (%) |
-| 11 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python](Python/String/0011_integer_to_roman.py) | Medium | ms (%) | MB (%) |
-| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python](Python/String/0011_integer_to_roman.py) | Medium | ms (%) | MB (%) |
+| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python](Python/String/0012_integer_to_roman.py) | Medium | ms (%) | MB (%) |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](Python/String/0013_roman_to_integer.py) | Medium | ms (%) | MB (%) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](Python/String/0014_longest_common_prefix.py) | Easy | 36 ms (68.12%) | 14 MB (23.87%) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](Python/String/0020_valid_parentheses.py) | Easy | 16 ms (90.91%) | 12.9 MB (25.60%) |
 | 27 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](Python/String/0027_implement_strstr.py) | Easy | 20 ms (99.15%) | 14.1 MB (23.38%) |
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Python](Python/String/0032_longest_valid_parentheses.py) | Hard |  |  |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Python](Python/String/0038_count_and_say.py) | Easy | 36 ms (69.99%) | 13.9 MB (54.59%) |
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Python](Python/String/0043_multiply_strings.py) | Medium | ms (%) | MB (%) |
-| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](Python/String/0242_valid_anagram.py) | Easy | 48 ms (54.93%) | 13.4 MB (97.49%) |d
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](Python/String/0242_valid_anagram.py) | Easy | 48 ms (54.93%) | 13.4 MB (97.49%) |
 | 273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [Python](Python/String/0273_int_to_eng.py) | Hard | 16 ms (92.36%) | 12.7 MB (73.82%) |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python](Python/String/0290_word_pattern.py) | Easy | 8 ms (99.33%) | 12.6 MB (100.00%) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](Python/String/0344_reverse_string.py) | Easy | 188 ms (23.86%) | 44.1 MB (5.05%) |
