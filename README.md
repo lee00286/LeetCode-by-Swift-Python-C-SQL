@@ -24,7 +24,7 @@
 | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Swift](Swift/Math/0292_nim_game.swift) | Easy | 4 ms (88.71%) | 20.9 MB (35.11%) |
 | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [Swift](Swift/Math/0326_power_of_three.swift) | Easy | 80 ms (30.34%) | 21 MB (92.11%) |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Swift](Swift/Math/0367_valid_perfect_square.swift) | Easy | 8 ms (60.71%) | 20.8 MB (25.00%) |
-| 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Python](Swift/Math/1009_complement_of_base_10_integer.swift) | Easy | 4 ms (96.83%) | 20.8 MB (28.578%) |
+| 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Swift](Swift/Math/1009_complement_of_base_10_integer.swift) | Easy | 4 ms (96.83%) | 20.8 MB (28.578%) |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Swift](Swift/Math/1351_count_negative_numbers_in_a_sorted_matrix.swift) | Easy | 160 ms (61.24%) | 20.9 MB (75.97%) |
 
 ### Matrix
@@ -86,7 +86,7 @@
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](Python/String/0005_longest_palindromic_substring.py) | Medium | 1008 ms (75.10%) | 13.8 MB (84.63%) |
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python](Python/String/0006_zigzag_conversion.py) | Medium | ms (%) | MB (%) |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python](Python/String/0012_integer_to_roman.py) | Medium | ms (%) | MB (%) |
-| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](Python/String/0013_roman_to_integer.py) | Medium | ms (%) | MB (%) |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](Python/String/0013_roman_to_integer.py) | Easy | 28 ms (99.83%) | 14.4 MB (8.02%) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](Python/String/0014_longest_common_prefix.py) | Easy | 36 ms (68.12%) | 14 MB (23.87%) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](Python/String/0020_valid_parentheses.py) | Easy | 16 ms (90.91%) | 12.9 MB (25.60%) |
 | 27 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](Python/String/0027_implement_strstr.py) | Easy | 20 ms (99.15%) | 14.1 MB (23.38%) |
