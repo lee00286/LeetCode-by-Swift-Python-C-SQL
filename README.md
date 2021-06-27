@@ -13,7 +13,7 @@
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Swift](Swift/Array/0001_two_sum.swift) | Easy | 36 ms (69.84%) | 21.3 MB (44.99%) |
-| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Swift](Swift/Array/0485_max_consecutive_ones.swift) | Easy | 288 ms (71.75%) | 21.3 MB (35.37%) | 
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Swift](Swift/Array/0485_max_consecutive_ones.swift) | Easy | 288 ms (71.75%) | 21.3 MB (35.37%) |
 
 ### Math
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
@@ -48,6 +48,7 @@
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](Python/Array/0001_two_sum.py) | Easy | 28 ms (98.70%) | 14.1 MB (30.66%) |
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](Python/Array/0004_median_sorted_arrays.py) | Hard | 92 ms (69.12%) | 14.5 MB (78.46%) |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](Python/Array/0036_valid_sudoku.py) | Medium | 76 ms (91.19%) | 12.9 MB (25.58%) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](Python/Array/0066_plus_one.py) | Easy | ms (%) | MB (%) |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](Python/Array/0167_two_sum_II.py) | Easy | 44 ms (93.95%) | 13.4 MB (8.96%) |
