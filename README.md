@@ -51,6 +51,7 @@
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](Python/Array/0004_median_sorted_arrays.py) | Hard | 92 ms (69.12%) | 14.5 MB (78.46%) |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](Python/Array/0036_valid_sudoku.py) | Medium | 76 ms (91.19%) | 12.9 MB (25.58%) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](Python/Array/0066_plus_one.py) | Easy | ms (%) | MB (%) |
+| 135 | [Candy](https://leetcode.com/problems/candy/) | [Python](Python/Array/0135_candy.py) | Easy | 156 ms (84.83%) | 16.8 MB (45.52%) |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](Python/Array/0167_two_sum_II.py) | Easy | 44 ms (93.95%) | 13.4 MB (8.96%) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Python](Python/Array/0268_missing_number.py) | Easy | 120 ms (62.09%) | 13.7 MB (68.94%) |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](Python/Array/0349_intersection_arrays.py) | Easy | 84 ms (12.03%) | 14.1 MB (22.81%) |
