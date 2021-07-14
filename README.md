@@ -95,6 +95,7 @@
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Python](Python/String/0032_longest_valid_parentheses.py) | Hard | ms (%) | MB (%) |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Python](Python/String/0038_count_and_say.py) | Easy | 36 ms (69.99%) | 13.9 MB (54.59%) |
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Python](Python/String/0043_multiply_strings.py) | Medium | ms (%) | MB (%) |
+| 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Python](Python/String/0044_wildcard_matching.py) | Hard | ms (%) | MB (%) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Python](Python/String/0067_add_binary.py) | Easy | 28 ms (90.19%) | 13.9 MB (99.99%) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](Python/String/0242_valid_anagram.py) | Easy | 48 ms (54.93%) | 13.4 MB (97.49%) |
 | 273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [Python](Python/String/0273_int_to_eng.py) | Hard | 16 ms (92.36%) | 12.7 MB (73.82%) |
@@ -102,6 +103,7 @@
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](Python/String/0344_reverse_string.py) | Easy | 188 ms (23.86%) | 44.1 MB (5.05%) |
 | 383 | [Random Note](https://leetcode.com/problems/ransom-note/) | [Python](Python/String/0383_random_note.py) | Easy | 68 ms (44.15%) | 13.9 MB (73.26%) |
 | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Python](Python/String/0551_attendance_record_one.py) | Easy | 28 ms (74.71%) | 13.9 MB (39.20%) |
+| 791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | [Python](Python/String/0791_custom_sort_string.py) | Medium | 32 ms (62.80%) | 14 MB (93.39%) |
 
 ---
 
