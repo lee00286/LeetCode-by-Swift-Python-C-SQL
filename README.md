@@ -49,6 +49,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](Python/Array/0001_two_sum.py) | Easy | 28 ms (98.70%) | 14.1 MB (30.66%) |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](Python/Array/0004_median_sorted_arrays.py) | Hard | 92 ms (69.12%) | 14.5 MB (78.46%) |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/submissions/) | [Python](Python/Array/0027_remove_element.py) | Easy | 32 ms (77.71%) | 14.2 MB (75.91%) |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Python](Python/Array/0036_valid_sudoku.py) | Medium | 76 ms (91.19%) | 12.9 MB (25.58%) |
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Python](Python/Array/0041_first_missing_positive.py) | Hard | ms (%) | MB (%) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](Python/Array/0066_plus_one.py) | Easy | ms (%) | MB (%) |
@@ -75,6 +76,7 @@
 | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Python](Python/Math/1009_complement_of_base_10_integer.py) | Easy | 28 ms (81.73%) | 13.8 MB (73.88%) |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Python](Python/Math/1351_count_negative_numbers_in_a_sorted_matrix.py) | Easy | 132 ms (60.84%) | 14.6 MB (95.38%) |
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Python](Python/Math/1380_lucky_numbers_in_a_matrix.py) | Easy | 168 ms (40.78%) | 13.9 MB (85.56%) |
+| 1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | [Python](Python/Math/1913_maximum_product_difference.py) | Easy | 172 ms (52.16%) | 15.4 MB (53.08%) |
 
 ### Linked List
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
