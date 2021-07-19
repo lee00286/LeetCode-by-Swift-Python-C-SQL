@@ -61,6 +61,11 @@
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Python](Python/Array/0485_max_consecutive_ones.py) | Easy | 320 ms (87.26%) | 12.9 MB (88.49%) |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Python](Python/Array/0500_keyboard_row.py) | Easy | 20 ms (97.99%) | 13.8 MB (50.68%) |
 
+### Linked List
+| # | Title | Solution | Difficulty | Runtime | Memory Usage |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](Python/Linked-List/0021_merge_two_sorted_lists.py) | Easy | 44 ms (23.34%) | 14.2 MB (84.73%) |
+
 ### Math
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -77,11 +82,7 @@
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [Python](Python/Math/1351_count_negative_numbers_in_a_sorted_matrix.py) | Easy | 132 ms (60.84%) | 14.6 MB (95.38%) |
 | 1380 | [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) | [Python](Python/Math/1380_lucky_numbers_in_a_matrix.py) | Easy | 168 ms (40.78%) | 13.9 MB (85.56%) |
 | 1913 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) | [Python](Python/Math/1913_maximum_product_difference.py) | Easy | 172 ms (52.16%) | 15.4 MB (53.08%) |
-
-### Linked List
-| # | Title | Solution | Difficulty | Runtime | Memory Usage |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](Python/Linked-List/0021_merge_two_sorted_lists.py) | Easy | 44 ms (23.34%) | 14.2 MB (84.73%) |
+| 1925 | [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/) | [Python](Python/Math/1925_count_square_sum_triples.py) | Easy | 1796 ms (18.62%) | 13.9 MB (98.29%) |
 
 ### Matrix
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
