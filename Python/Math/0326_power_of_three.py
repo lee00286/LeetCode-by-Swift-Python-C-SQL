@@ -8,8 +8,8 @@ class Solution:
         
         return n == 1
     
-        '''
-        # Multiplication
+        """
+        # ===== Multiplication
         if (n <= 0):
             return False
         
@@ -18,4 +18,12 @@ class Solution:
             num = num * 3
         
         return num == n
-        '''
+        """
+        """
+        # ===== Recursion
+        if (n == 3 or n == 1):
+            return True
+        if (n == 0):
+            return False
+        return self.isPowerOfThree(n / 3)
+        """

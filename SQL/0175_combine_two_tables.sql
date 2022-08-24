@@ -7,5 +7,5 @@
 # +----------+----------+-----------+  +-----------+----------+---------------+----------+
 # | 1        | Wang     | Allen     |  | 1         | 2        | New York City | New York |
 
-SELECT FirstName, LastName, City, State FROM Person 
-LEFT JOIN Address ON Person.PersonId = Address.PersonId;
+SELECT firstName, lastName, city, state
+FROM Person LEFT OUTER JOIN Address ON Person.personId = Address.personId;

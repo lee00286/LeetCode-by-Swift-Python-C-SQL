@@ -1,10 +1,19 @@
 # LeetCode
 
 ## Table of Contents
+- [LeetCode by JavaScript](#leetcode-by-javascript)
 - [LeetCode by Swift](#leetcode-by-swift)
 - [LeetCode by Python](#leetcode-by-python)
 - [LeetCode by C](#leetcode-by-c)
 - [LeetCode by SQL](#leetcode-by-sql)
+
+---
+
+## LeetCode by JavaScript
+### Array
+| # | Title | Solution | Difficulty | Runtime | Memory Usage |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/)  | [JavaSrcript](JavaSrcript/Array/0001_two_sum.js) | Easy | 112 ms (41.45%) | 39.4 MB (81.97%) |
 
 ---
 
@@ -60,6 +69,8 @@
 | 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [Python](Python/Array/0401_binary_watch.py) | Easy | 20 ms (71.98%) | 12.8 MB (44.58%) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Python](Python/Array/0485_max_consecutive_ones.py) | Easy | 320 ms (87.26%) | 12.9 MB (88.49%) |
 | 500 | [Keyboard Row](https://leetcode.com/problems/keyboard-row/) | [Python](Python/Array/0500_keyboard_row.py) | Easy | 20 ms (97.99%) | 13.8 MB (50.68%) |
+| 871 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) | [Python](Python/Array/0871_minimum_number_of_refueling_stops.py) | Hard | 1835 ms (10.63%) | 14.3 MB (36.38%) |
+| 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | [Python](Python/Array/1338_reduce_array_size_to_the_half.py) | Medium | 597 ms (97.71%) | 32.3 MB (57.69%) |
 
 ### Linked List
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
@@ -98,10 +109,11 @@
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](Python/String/0005_longest_palindromic_substring.py) | Medium | 1008 ms (75.10%) | 13.8 MB (84.63%) |
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python](Python/String/0006_zigzag_conversion.py) | Medium | ms (%) | MB (%) |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Python](Python/String/0012_integer_to_roman.py) | Medium | ms (%) | MB (%) |
-| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](Python/String/0013_roman_to_integer.py) | Easy | 28 ms (99.83%) | 14.4 MB (8.02%) |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](Python/String/0013_roman_to_integer.py) | Easy | 47 ms (95.33%) | 13.9 MB (31.19%) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](Python/String/0014_longest_common_prefix.py) | Easy | 36 ms (68.12%) | 14 MB (23.87%) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](Python/String/0020_valid_parentheses.py) | Easy | 16 ms (90.91%) | 12.9 MB (25.60%) |
 | 27 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](Python/String/0027_implement_strstr.py) | Easy | 20 ms (99.15%) | 14.1 MB (23.38%) |
+| 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [Python](Python/String/0030_substring_with_concatenation.py) | Hard | 679 ms (52.45%) | 14.2 MB (38.75%) |
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Python](Python/String/0032_longest_valid_parentheses.py) | Hard | ms (%) | MB (%) |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Python](Python/String/0038_count_and_say.py) | Easy | 36 ms (69.99%) | 13.9 MB (54.59%) |
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Python](Python/String/0043_multiply_strings.py) | Medium | ms (%) | MB (%) |
@@ -111,9 +123,11 @@
 | 273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [Python](Python/String/0273_int_to_eng.py) | Hard | 16 ms (92.36%) | 12.7 MB (73.82%) |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Python](Python/String/0290_word_pattern.py) | Easy | 8 ms (99.33%) | 12.6 MB (100.00%) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](Python/String/0344_reverse_string.py) | Easy | 188 ms (23.86%) | 44.1 MB (5.05%) |
-| 383 | [Random Note](https://leetcode.com/problems/ransom-note/) | [Python](Python/String/0383_random_note.py) | Easy | 68 ms (44.15%) | 13.9 MB (73.26%) |
+| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python](Python/String/0383_ransom_note.py) | Easy | 68 ms (44.15%) | 13.9 MB (73.26%) |
+| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](Python/String/0387_first_unique_character.py) | Easy | 135 ms (72.85%) | 14.3 MB (7.34%) |
 | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Python](Python/String/0551_attendance_record_one.py) | Easy | 28 ms (74.71%) | 13.9 MB (39.20%) |
 | 791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | [Python](Python/String/0791_custom_sort_string.py) | Medium | 32 ms (62.80%) | 14 MB (93.39%) |
+| 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Python](Python/String/0804_unique_morse_code_words.py) | Easy | 51 ms (61.30%) | 13.8 MB (75.48%) |
 
 ---
 
@@ -136,10 +150,15 @@
 ## LeetCode by SQL
 | # | Title | Solution | Difficulty | Runtime | Memory Usage |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [SQL](SQL/0175_combine_two_tables.sql) | Easy | 366 ms (80.10%) | 0 B (100.00%) |
-| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [SQL](SQL/0176_second_highest_salary.sql) | Easy | 330 ms (46.50%) | 0 B (100.00%) |
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [SQL](SQL/0175_combine_two_tables.sql) | Easy | 431 ms (60.16%) | 0 B (100.00%) |
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [SQL](SQL/0176_second_highest_salary.sql) | Easy | 269 ms (56.36%) | 0 B (100.00%) |
+| 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [SQL](SQL/0181_employees_earning_more_than_managers.sql) | Easy | 349 ms (83.88%) | 0 B (100.00%) |
+| 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [SQL](SQL/0182_duplicate_emails.sql) | Easy | 336 ms (80.73%) | 0 B (100.00%) |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | [SQL](SQL/0183_customers_who_never_order.sql) | Easy | 538 ms (65.86%) | 0 B (100.00%) |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [SQL](SQL/0196_delete_duplicate_emails.sql) | Easy | 2101 ms (56.82%) | 0 B (100.00%) |
+| 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [SQL](SQL/0197_rising_temperature.sql) | Easy | 440 ms (79.88%) | 0 B (100.00%) |
+| 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | [SQL](SQL/0584_find_customer_referee.sql) | Easy | 497 ms (68.24%) | 0 B (100.00%) |
+| 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [SQL](SQL/0586_customer_placing_the_largest_number_of_orders.sql) | Easy | 357 ms (99.49%) | 0 B (100.00%) |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | [SQL](SQL/0595_big_countries.sql) | Easy | 237 ms (99.81%) | 0 B (100.00%) |
 | 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | [SQL](SQL/0596_more_than_five.sql) | Easy | 264 ms (97.67%) | 0 B (100.00%) |
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [SQL](SQL/0620_not_boring_movies.sql) | Easy | 183 ms (98.39%) | 0 B (100.00%) |
